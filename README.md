@@ -11,16 +11,16 @@ If your project requires that you create a new XML document format, our [XML Doc
 
 These style guides are licensed under the CC-By 3.0 License, which encourages you to share these documents. See http://creativecommons.org/licenses/by/3.0/ for more details.
 
-[cpp]: http://google.github.io/styleguide/cppguide.html
-[objc]: http://google.github.io/styleguide/objcguide.xml
-[java]: http://google.github.io/styleguide/javaguide.html
-[py]: http://google.github.io/styleguide/pyguide.html
-[sh]: http://google.github.io/styleguide/shell.xml
-[htmlcss]: http://google.github.io/styleguide/htmlcssguide.xml
-[js]: http://google.github.io/styleguide/javascriptguide.xml
-[angular]: http://google.github.io/styleguide/angularjs-google-style.html
-[cl]: http://google.github.io/styleguide/lispguide.xml
-[vim]: http://google.github.io/styleguide/vimscriptguide.xml
-[cpplint]: https://github.com/google/styleguide/tree/gh-pages/cpplint
-[emacs]: https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el
-[xml]: http://google.github.io/styleguide/xmlstyle.html
+* [cpp]: http://google.github.io/styleguide/cppguide.html
+* [objc]: http://google.github.io/styleguide/objcguide.xml
+* [java]: http://google.github.io/styleguide/javaguide.html
+* [py]: http://google.github.io/styleguide/pyguide.html
+* [sh]: http://google.github.io/styleguide/shell.xml
+* [htmlcss]: http://google.github.io/styleguide/htmlcssguide.xml
+* [js]: http://google.github.io/styleguide/javascriptguide.xml
+* [angular]: http://google.github.io/styleguide/angularjs-google-style.html
+* [cl]: http://google.github.io/styleguide/lispguide.xml
+* [vim]: http://google.github.io/styleguide/vimscriptguide.xml
+* [cpplint]: https://github.com/google/styleguide/tree/gh-pages/cpplint
+* [emacs]: https://raw.githubusercontent.com/google/styleguide/gh-pages/google-c-style.el
+* [xml]: http://google.github.io/styleguide/xmlstyle.html
